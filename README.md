@@ -4,7 +4,10 @@
 
 ### Version 1.0.0.1 (Windows X86 & X64 and MacOS >= 10.13)
 
+[Youtube demo](https://youtu.be/UjfWZ6B930I)
+
 [Download XEP-Charts 1.0.0.1](https://github.com/ElectraProtocol/XEP-ecosystem/releases/tag/Charts-1.0.0.1)
+
 
 **Exchanges:**
 - Bittrex
