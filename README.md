@@ -23,3 +23,4 @@
 - Enlarge application: Double click
 - Full screen        : F11
 ```
+![XEP_Charts_picture](https://cdn.discordapp.com/attachments/551157654542614539/895676125504765982/unknown.png)
