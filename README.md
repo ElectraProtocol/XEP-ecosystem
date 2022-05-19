@@ -1,3 +1,9 @@
+# XEP-BIP39-iancoleman
+
+*Recover your private keys from your mnemonic, using the offline bip 39 tool*
+
+[Download XEP-BIP39-iancoleman](https://github.com/ElectraProtocol/XEP-ecosystem/releases/download/BIP39-offline/bip39-standalone-XEP.html)
+
 # XEP-Charts - Exchanges monitoring
 
 *A desktop app to monitor XEP exchanges*
